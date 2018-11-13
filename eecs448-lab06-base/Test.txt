@@ -1,0 +1,13 @@
+isEmpty() does not return false on a list with elements in it
+
+size() passed tests
+
+search() passed tests
+
+addBack() successfully adds an element to the list, but doesn't add it to the back of the list
+
+addFront() passed tests
+
+removeBack() does not successfully delete one element and the last element doesn't get deleted
+
+removeFront() does not successfully delete one element and the first element doesn't get deleted
